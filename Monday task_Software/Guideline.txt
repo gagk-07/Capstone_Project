@@ -1,0 +1,7 @@
+Please note that if you dont have Python extension in VSCode:
+
+1. Open VS Code, click on the Extensions icon (or press Ctrl+Shift+X), then search for "Python" and click Install on the Microsoft Python extension.
+2. After installation, make sure to set your Python interpreter by pressing Ctrl+Shift+P, typing Python: Select Interpreter, and choosing the appropriate Python version.
+
+Otherwise, you can also run this code in Jupyter notebook by uploading the files to the Home folder under the local server. 
+The video of demonstration of step by step running VScode for the GUI application has been given already. 

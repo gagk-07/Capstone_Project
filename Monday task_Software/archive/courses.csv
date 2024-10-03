@@ -1,0 +1,138 @@
+course_id,title,price,link,total_enrolled_students,category,batch_no,launch_date,platform,subscription_type
+1,"Full Stack Web Development with PHP, Laravel & Vue JS",8000,https://ostad.app/course/laravel,1970,Web Development,4,,Ostad,Paid
+2,Coding Interview Preparation (Local+Remote Job),8000,https://ostad.app/course/coding-interview,431,Job & Career Preparation,3,,Ostad,Paid
+3,Database for Software Developers,7000,https://ostad.app/course/database-for-developer,272,Programming & Software Development,2,,Ostad,Paid
+4,Full Stack Web Development with JavaScript (MERN),8000,https://ostad.app/course/mern,3986,Web Development,7,,Ostad,Paid
+5,"Full Stack Web Development with Python, Django & React",8000,https://ostad.app/course/web-development-with-python-django,522,Web Development,2,,Ostad,Paid
+6,ASP.NET Core Career Track,7000,https://ostad.app/course/asp-dotnet-core,132,Job & Career Preparation,2,,Ostad,Paid
+7,Shopify Store Design and Dropshipping,5000,https://ostad.app/course/shopify-store,222,Product Management & Design,2,,Ostad,Paid
+8,Full Stack Digital Marketing 2024 (12 Courses in 1),12000,https://ostad.app/course/digital-marketing,1299,Digital Marketing & SEO,5,,Ostad,Paid
+9,SQA: Manual & Automated Testing,5000,https://ostad.app/course/stqa,341,Software Quality Assurance,7,,Ostad,Paid
+10,Mastering Webflow,7000,https://ostad.app/course/webflow,189,Product Management & Design,3,,Ostad,Paid
+11,Product Management,5000,https://ostad.app/course/product-management,149,Product Management & Design,2,,Ostad,Paid
+12,WordPress Security & Speed Optimization,5000,https://ostad.app/course/wordpress-security,3,Web Development,1,,Ostad,Paid
+13,UI-UX গাইডেড প্রোগ্রাম,7000,https://ostad.app/course/ui-ux-program,1894,Product Management & Design,36,,Ostad,Paid
+14,Data Science & Machine Learning with Python for Beginners,6000,https://ostad.app/course/data-science-with-python,1582,Data Science & Analytics,35,,Ostad,Paid
+15,Mastering Social Media Banner Design: The Next Level,4000,https://ostad.app/course/social-media-banner-design,109,Digital Marketing & SEO,2,,Ostad,Paid
+16,App Development with Flutter,8000,https://ostad.app/course/flutter,1397,Programming & Software Development,7,,Ostad,Paid
+17,UI-UX Design Job Interview Preparation,3000,https://ostad.app/course/ui-ux-interview-preparation,4,Job & Career Preparation,1,,Ostad,Paid
+18,WordPress Theme Development,8000,https://ostad.app/course/wordpress-theme-development,149,Web Development,2,,Ostad,Paid
+19,Web Development with Next JS & Prisma,5000,https://ostad.app/course/nextjs-prisma,500,Web Development,3,,Ostad,Paid
+20,Art of Tailwind CSS,3000,https://ostad.app/course/tailwind-css,23,Web Development,1,,Ostad,Paid
+21,ফ্রিল্যান্সিং উইথ গ্রাফিক ডিজাইন,4500,https://ostad.app/course/graphics-design,440,Product Management & Design,9,,Ostad,Paid
+22,Design Systems Expedition,8500,https://ostad.app/course/design-systems,72,Product Management & Design,1,,Ostad,Paid
+23,Mastering Docker for Software Developers,5500,https://ostad.app/course/docker,95,Blockchain & Cloud Computing,1,,Ostad,Paid
+24,UX Leadership: Strategy & Tactics,8500,https://ostad.app/course/ux-leadership,136,Product Management & Design,2,,Ostad,Paid
+25,Shopify Theme Development,8000,https://ostad.app/course/shopify-theme-development,94,Web Development,1,,Ostad,Paid
+26,Mastering Shopify: App Development,10000,https://ostad.app/course/shopify-app-development,175,Programming & Software Development,1,,Ostad,Paid
+27,Cyber Security & Ethical Hacking,7000,https://ostad.app/course/cyber-security,39,Cybersecurity,1,,Ostad,Paid
+28,IELTS পুর্নাঙ্গ প্রস্তুতি প্রোগ্রাম,6000,https://ostad.app/course/ielts-full-course,1781,English Language Learning,31,,Ostad,Paid
+29,Mastering Vue.js,6000,https://ostad.app/course/mastering-vue-js,309,Web Development,2,,Ostad,Paid
+30,IELTS Writing প্রিপারেশন,1500,https://ostad.app/course/ielts-writing,1085,English Language Learning,80,,Ostad,Paid
+31,Spoken English গাইডেড প্রোগ্রাম,3000,https://ostad.app/course/spoken-english-100-days,345,English Language Learning,35,,Ostad,Paid
+32,Power BI for Professionals,3500,https://ostad.app/course/power-bi-for-professionals,547,Business Intelligence & Microsoft Tools,31,,Ostad,Paid
+33,IELTS Reading Preparation,1500,https://ostad.app/course/ielts-reading,723,English Language Learning,61,,Ostad,Paid
+34,IELTS Speaking Preparation,1500,https://ostad.app/course/ielts-speaking,468,English Language Learning,47,,Ostad,Paid
+35,ছেলেদের জন্য শুদ্ধভাবে কুরআন শিক্ষা,2500,https://ostad.app/course/al-quran-online-batch,1153,Public Speaking & Personal Development,56,,Ostad,Paid
+36,Business Intelligence with Excel,3000,https://ostad.app/course/business-intelligence-with-excel,66,Business Intelligence & Microsoft Tools,6,,Ostad,Paid
+37,কপিরাইটিং এর ক-খ-গ-ঘ,3000,https://ostad.app/course/copy-writing,147,Digital Marketing & SEO,5,,Ostad,Paid
+38,IELTS Crash Course,3000,https://ostad.app/course/ielts-crash-course,142,English Language Learning,3,,Ostad,Paid
+39,প্রোডাক্ট ডিজাইন উইথ সলিডওয়ার্ক্স,3000,https://ostad.app/course/solidworks,208,Product Management & Design,5,,Ostad,Paid
+40,অটোক্যাড 2D লাইভ বুটক্যাম্প,2000,https://ostad.app/course/autocad,22,Product Management & Design,1,,Ostad,Paid
+41,Mobile App Design,12000,https://ostad.app/course/mobile-app-design,60,Product Management & Design,1,,Ostad,Paid
+42,Video Editing & Motion Graphic Design,5000,https://ostad.app/course/video-editing-pr-ar,29,Product Management & Design,1,,Ostad,Paid
+43,Blockchain Development,8000,https://ostad.app/course/blockchain-development,46,Blockchain & Cloud Computing,1,,Ostad,Paid
+44,Marketing Agency Blueprint Mentorship Program,5000,https://ostad.app/course/marketing-agency,112,Digital Marketing & SEO,1,,Ostad,Paid
+45,Graphic Design with AI,3000,https://ostad.app/course/ai-design,83,Product Management & Design,1,,Ostad,Paid
+46,Freelancing with SEO,5000,https://ostad.app/course/freelancing-with-seo,122,Digital Marketing & SEO,2,,Ostad,Paid
+47,ডাটা সায়েন্স ফান্ডামেন্টালস,0,https://ostad.app/course/data-science-crash-course,926,Data Science & Analytics,,,Ostad,Free
+48,UI UX ডিজাইন ফান্ডামেন্টালস,0,https://ostad.app/course/ui-ux-crash-course,1175,Product Management & Design,,,Ostad,Free
+49,Kickstart Your SQA Career,0,https://ostad.app/course/sqa-crash-course,1019,Software Quality Assurance,,,Ostad,Free
+50,Fundamentals of Digital Marketing,0,https://ostad.app/course/digital-marketing-fundamentals,4674,Digital Marketing & SEO,,,Ostad,Free
+51,Fundamentals of Python Web,0,https://ostad.app/course/python-web-fundamentals,2844,Web Development,,,Ostad,Free
+52,Fundamentals of Web Development For MERN,0,https://ostad.app/course/web-development-fundamentals,5498,Web Development,,,Ostad,Free
+53,Basics of Product Management,0,https://ostad.app/course/product-management-basics,2929,Product Management & Design,,,Ostad,Free
+54,ASP.NET Core Crash Course,0,https://ostad.app/course/dot-net-free,1438,Web Development,,,Ostad,Free
+55,Webflow Crash Course,0,https://ostad.app/course/webflow-free-course,2436,Product Management & Design,,,Ostad,Free
+56,QuickStart Your Flutter Journey,0,https://ostad.app/course/flutter-fundamentals,3341,Programming & Software Development,,,Ostad,Free
+57,Kickstart Your Laravel Journey,0,https://ostad.app/course/php-laravel-fundamentals,6908,Web Development,,,Ostad,Free
+58,Data Analytics with Python,0,https://ostad.app/course/data-analytics,2011,Data Science & Analytics,,,Ostad,Free
+59,Fundamentals of Cybersecurity,0,https://ostad.app/course/cybersecurity-fundamentals,2011,Cybersecurity,,,Ostad,Free
+60,Crash Course on Coding Problem Solving,0,https://ostad.app/course/coding-problem-solving,2218,Job & Career Preparation,,,Ostad,Free
+61,Quick Start with Vue Js,0,https://ostad.app/course/beginning-vue-js,1132,Web Development,,,Ostad,Free
+62,ব্লকচেইনের A B C D,0,https://ostad.app/course/blockchainabcd,1132,Blockchain & Cloud Computing,,,Ostad,Free
+63,প্রোডাক্ট ডিজাইনে হাতেখড়ি,0,https://ostad.app/course/product-design-solidworks,824,Product Management & Design,,,Ostad,Free
+64,ডিজাইনে হাতেখড়ি,0,https://ostad.app/course/design-process,1040,Product Management & Design,,,Ostad,Free
+65,Basic Statistics for Data Science,0,https://ostad.app/course/basic-statistics,1291,Data Science & Analytics,,,Ostad,Free
+66,Grid system and Responsive design,0,https://ostad.app/course/grid-system,1017,Product Management & Design,,,Ostad,Free
+67,UI-UX Career Mastery,0,https://ostad.app/course/ui-ux-career-mastery,1105,Job & Career Preparation,,,Ostad,Free
+68,"MERN Stack: Skills, Scope, Benefits",0,https://ostad.app/course/mern-stack-workshop,697,Web Development,,,Ostad,Free
+69,Design Principles: Gestalt & Dieter Rams,0,https://ostad.app/course/ui-ux-design-principles,692,Product Management & Design,,,Ostad,Free
+70,Kickstart Your Career with PHP & Laravel,0,https://ostad.app/course/php-laravel-workshop,1202,Job & Career Preparation,,,Ostad,Free
+71,Road to Product Design with SolidWorks,0,https://ostad.app/course/solidworks-workshop,338,Product Management & Design,,,Ostad,Free
+72,Insight Into IELTS: A Kick-start to Your Dream,0,https://ostad.app/course/ielts-workshop,1159,English Language Learning,,,Ostad,Free
+73,SQA - Introduction & Prospects,0,https://ostad.app/course/sqa-workshop,632,Software Quality Assurance,,,Ostad,Free
+74,Mobile Application Development with Flutter,0,https://ostad.app/course/mobile-app-development-with-flutter,1291,Programming & Software Development,,,Ostad,Free
+75,"Basics of Brand Identity, Design Pattern & Freelancing",0,https://ostad.app/course/basics-of-photoshop-and-freelancing,695,Product Management & Design,,,Ostad,Free
+76,Building  a Career in Data Science in Local & Global Context,0,https://ostad.app/course/data-science-workshop,777,Job & Career Preparation,,,Ostad,Free
+77,Basics of Web & Postman,0,https://ostad.app/course/basicsofweb&postman,1176,Web Development,,,Ostad,Free
+78,দ্য আর্ট অফ স্টোরিটেলিং,0,https://ostad.app/course/storytelling,546,Public Speaking & Personal Development,,,Ostad,Free
+79,Complete Digital Marketing,7000,https://bohubrihi.com/track/digital-marketing,788,Digital Marketing & SEO,,28-02-21,Bohubrihi,Paid
+80,Digital Product Management,6000,https://bohubrihi.com/track/product-management,599,Digital Marketing & SEO,,17-01-23,Bohubrihi,Paid
+81,Full Stack Web Development With Python & JavaScript,7000,https://bohubrihi.com/track/full-stack-web-development,1758,Web Development,,03-12-20,Bohubrihi,Paid
+82,Art of Job Searching & Applications,0,https://bohubrihi.com/track/job-hunting,5908,Job & Career Preparation,,13-07-23,Bohubrihi,Free
+83,Data Analytics,6000,https://bohubrihi.com/track/data-analytics,625,Data Science & Analytics,,02-10-23,Bohubrihi,Paid
+84,Elevate Your Public Speaking,0,https://bohubrihi.com/track/public-speaking,5491,English Language Learning,,30-08-23,Bohubrihi,Free
+85,Excellence with Excel,1000,https://bohubrihi.com/track/excellence-with-excel,547,Business Intelligence & Microsoft Tools,,08-07-23,Bohubrihi,Paid
+86,Introduction to Data Analytics,0,https://bohubrihi.com/track/introduction-to-data-analytics,4894,Data Science & Analytics,,12-02-24,Bohubrihi,Free
+87,Pathway to Digital Product Management,0,https://bohubrihi.com/track/product-management-pathway,1891,Digital Marketing & SEO,,08-02-24,Bohubrihi,Free
+88,Pathway to Software Engineering,0,https://bohubrihi.com/track/software-engineering-pathway,6870,Programming & Software Development,,26-07-23,Bohubrihi,Free
+89,Spoken English,1400,https://bohubrihi.com/track/spoken-english,340,English Language Learning,,18-01-23,Bohubrihi,Paid
+90,Cloud Computing with AWS,2000,https://bohubrihi.com/track/aws,42,Blockchain & Cloud Computing,,26-06-23,Bohubrihi,Paid
+91,Complete PowerPoint Masterclass,1400,https://bohubrihi.com/track/complete-powerpoint-masterclass,282,Business Intelligence & Microsoft Tools,,27-11-22,Bohubrihi,Paid
+92,GRE Verbal Preparation,1500,https://bohubrihi.com/track/gre-verbal-preparation,470,English Language Learning,,16-04-20,Bohubrihi,Paid
+93,Android App Development with Kotlin,3000,https://bohubrihi.com/track/android-kotlin,64,Programming & Software Development,,14-02-23,Bohubrihi,Paid
+94,Containerized Development with Docker,1500,https://bohubrihi.com/track/docker,19,Blockchain & Cloud Computing,,26-06-23,Bohubrihi,Paid
+95,Programming with Python,1800,https://bohubrihi.com/track/python-programming,72,Programming & Software Development,,26-06-23,Bohubrihi,Paid
+96,Advanced JAVA Programming for Software Development,2000,https://bohubrihi.com/track/advanced-java-programming-for-software-development,178,Programming & Software Development,,29-10-20,Bohubrihi,Paid
+97,Full Stack Web Development with JavaScript (MERN),7000,https://bohubrihi.com/track/full-stack-web-development-with-mern,403,Web Development,,29-04-23,Bohubrihi,Paid
+98,IELTS Academic and General Preparation ,0,https://bohubrihi.com/track/ielts,8772,English Language Learning,,27-06-23,Bohubrihi,Free
+99,Emotional Intelligence: A Guide for Excellence in Personal & Professional Life,1200,https://bohubrihi.com/track/emotional-intelligence,974,Public Speaking & Personal Development,,06-09-20,Bohubrihi,Paid
+100,"Promoting Diversity, Tolerance & Pluralism",0,https://bohubrihi.com/track/ulab-mooc,6642,Public Speaking & Personal Development,,09-06-21,Bohubrihi,Free
+101,MATLAB Masterclass,1500,https://bohubrihi.com/track/matlab-masterclass,357,Product Management & Design,,20-10-20,Bohubrihi,Paid
+102,Complete Excel Training,2000,https://bohubrihi.com/track/complete-excel-training,1848,Business Intelligence & Microsoft Tools,,18-05-18,Bohubrihi,Paid
+103,Professional Email Writing,700,https://bohubrihi.com/track/professional-email-writing,491,Public Speaking & Personal Development,,26-07-21,Bohubrihi,Paid
+104,"Back-end Development with NodeJS, Express & MongoDB",1900,https://bohubrihi.com/track/nodejs,279,Web Development,,12-03-21,Bohubrihi,Paid
+105,Introduction to Database,1000,https://bohubrihi.com/track/intro-to-database,113,Programming & Software Development,,08-06-21,Bohubrihi,Paid
+106,Programming with Modern JavaScript,1500,https://bohubrihi.com/track/modern-javascript,240,Web Development,,01-07-20,Bohubrihi,Paid
+107,React Native for Multiplatform App Development,1800,https://bohubrihi.com/track/react-native-app,457,Web Development,,28-08-20,Bohubrihi,Paid
+108,C Programming for Beginners,1200,https://bohubrihi.com/track/c-programming,157,Programming & Software Development,,13-02-22,Bohubrihi,Paid
+109,ReactJS - for Front-End Development,2500,https://bohubrihi.com/track/reactjs-redux,237,Web Development,,07-08-20,Bohubrihi,Paid
+110,Resume & Cover Letter Writing,1200,https://bohubrihi.com/track/resume-and-cover-letter-writing,123,Job & Career Preparation,,21-11-22,Bohubrihi,Paid
+111,Stata for Statistics & Data Analysis,1900,https://bohubrihi.com/track/stata,374,Data Science & Analytics,,03-11-20,Bohubrihi,Paid
+112,Complete Microsoft Word Training,800,https://bohubrihi.com/track/microsoft-word,275,Business Intelligence & Microsoft Tools,,28-11-21,Bohubrihi,Paid
+113,Django: Backend Web Development with Projects,3000,https://bohubrihi.com/track/django-backend-web-development,416,Web Development,,15-12-19,Bohubrihi,Paid
+114,Data Structures And Algorithms,2000,https://bohubrihi.com/track/ds-algorithm,731,Data Science & Analytics,,02-09-20,Bohubrihi,Paid
+115,PowerPoint Fundamentals,0,https://bohubrihi.com/track/powerpoint-fundamentals,6950,Business Intelligence & Microsoft Tools,,21-06-23,Bohubrihi,Free
+116,Introduction to Digital Marketing,0,https://bohubrihi.com/track/dm-basics,36272,Digital Marketing & SEO,,20-12-20,Bohubrihi,Free
+117,Introduction to JavaScript,0,https://bohubrihi.com/track/intro-to-js,8148,Web Development,,22-06-23,Bohubrihi,Free
+118,"Django: Blog, eCommerce & Social Media Website Projects",1500,https://bohubrihi.com/track/django-projects,110,Digital Marketing & SEO,,06-06-20,Bohubrihi,Paid
+119,Introduction to Python Programming,0,https://bohubrihi.com/track/python-basics,21336,Programming & Software Development,,22-06-23,Bohubrihi,Free
+120,GRE Quantitative Reasoning Preparation,1500,https://bohubrihi.com/track/gre-quant-preparation,76,English Language Learning,,07-02-22,Bohubrihi,Paid
+121,Google Ads Complete Course: A to Z,1700,https://bohubrihi.com/track/google-ads,197,Digital Marketing & SEO,,21-04-21,Bohubrihi,Paid
+122,Google Marketing Tools (Organic),1500,https://bohubrihi.com/track/google-marketing-tools,82,Digital Marketing & SEO,,17-05-21,Bohubrihi,Paid
+123,Google Workspace (G-Suite) Training,525,https://bohubrihi.com/track/google-workspace,2889,Business Intelligence & Microsoft Tools,,29-07-21,Bohubrihi,Paid
+124,"HTML5, CSS3 & Bootstrap 4 For Web Development",0,https://bohubrihi.com/track/html5-css3-and-bootstrap-4,50752,Web Development,,08-07-20,Bohubrihi,Free
+125,iOS App Development with Swift,3000,https://bohubrihi.com/track/ios-app-development-with-swift,37,Programming & Software Development,,29-09-21,Bohubrihi,Paid
+126,Introduction to R,1000,https://bohubrihi.com/track/introduction-to-r,181,Data Science & Analytics,,24-11-21,Bohubrihi,Paid
+127,Job and Career Preparation,2000,https://bohubrihi.com/track/job-and-career-preparation,44,Job & Career Preparation,,22-11-22,Bohubrihi,Paid
+128,Laravel for Back-End Web Development,1750,https://bohubrihi.com/track/laravel,359,Web Development,,07-04-21,Bohubrihi,Paid
+129,Mapping and Spatial Analysis with ArcGIS,2000,https://bohubrihi.com/track/arcgis,618,Data Science & Analytics,,21-10-20,Bohubrihi,Paid
+130,PHP for Web Development,1500,https://bohubrihi.com/track/php-for-web-development,347,Web Development,,12-12-20,Bohubrihi,Paid
+131,YouTube Marketing for Organic Reach,0,https://bohubrihi.com/track/youtube-marketing-for-organic-reach,24087,Digital Marketing & SEO,,18-12-20,Bohubrihi,Free
+132,Personal Finance Management,900,https://bohubrihi.com/track/personal-finance-management,124,Public Speaking & Personal Development,,29-01-22,Bohubrihi,Paid
+133,Mental Stress Management,1200,https://bohubrihi.com/track/stress-management,165,Public Speaking & Personal Development,,02-06-21,Bohubrihi,Paid
+134,Graphic Design Fundamentals,1500,https://bohubrihi.com/track/graphic-design-fundamentals,144,Product Management & Design,,19-10-21,Bohubrihi,Paid
+135,Facebook Marketing Tools (Organic),0,https://bohubrihi.com/track/facebook-marketing-tools-organic,29818,Digital Marketing & SEO,,19-12-20,Bohubrihi,Free
+136,Facebook Ads: A to Z,1650,https://bohubrihi.com/track/fb-ads-a-z,189,Digital Marketing & SEO,,12-04-21,Bohubrihi,Paid
+137,Automation With Excel Macros & VBA,1500,https://bohubrihi.com/track/excel-macros-vba,253,Software Quality Assurance,,11-07-20,Bohubrihi,Paid
